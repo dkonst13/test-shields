@@ -1,1 +1,1 @@
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdkonst13%2Ftest-shields-%2Fmain%2Fresult.json%3Ftoken%3DGHSAT0AAAAAACJOQORBUZTH7KSLHKI4Z5ZIZKTB5VA&query=%24.status)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdkonst13%2Ftest-shields%2Fmain%2Fresult.json&query=%24.status&label=build)
