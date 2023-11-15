@@ -1,4 +1,12 @@
 {
-    "status": "passing",
-    "coverage": 80
+  "tests": [
+    {
+      "name": "Test 1",
+      "status": "pass"
+    },
+    {
+      "name": "Test 2",
+      "status": "fail"
+    }
+  ]
 }
